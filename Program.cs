@@ -8,7 +8,7 @@ namespace EventHubsQuickStart
 {
     class Program
     {
-        private const string connectionString = "Endpoint=sb://ehubns-7333.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=xvF+BSji2T7PzIZLbmYpqqWWMnA/Vgh1Q2nFVdOnyD0=";
+        private const string connectionString = "";
         private const string eventHubName = "myeventhub";
         static async Task Main()
         {
